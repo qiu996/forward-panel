@@ -74,10 +74,12 @@
 #### 快速部署
 
 ```bash
-curl -L https://raw.githubusercontent.com/bqlpfy/forward-panel/refs/heads/main/panel_install.sh -o panel_install.sh && chmod +x panel_install.sh && ./panel_install.sh
-
+curl -fsSL https://github.com/qiu996/forward-panel/raw/refs/heads/main/panel_install.sh -o panel_install.sh && chmod +x panel_install.sh && ./panel_install.sh
 ```
-
+链接中转
+```bash
+https://github.com/qiu996/forward-panel/raw/refs/heads/main/install.sh
+```
 
 
 
