@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "哆啦A梦"
+  name: "勇友转发"
   text: "基于gost的转发面板"
   tagline: "功能强大的流量转发管理平台，支持灵活的流量计费和限速功能"
   actions:
@@ -14,7 +14,7 @@ hero:
       link: /getting-started
     - theme: alt
       text: 查看源码
-      link: https://github.com/bqlpfy/forward-panel
+      link: https://github.com/qiu996/forward-panel
 
 features:
   - icon: 🔄
@@ -57,9 +57,9 @@ features:
 如果您在使用过程中遇到问题或有功能建议，欢迎：
 
 - 📱 [加入 Telegram 群组](https://t.me/+wdVDni1fdyI0YzE1)
-- 🐛 [报告问题](https://github.com/bqlpfy/forward-panel/issues)
-- 💡 [功能建议](https://github.com/bqlpfy/forward-panel/issues)
-- 🤝 [参与贡献](https://github.com/bqlpfy/forward-panel/pulls)
+- 🐛 [报告问题](https://github.com/qiu996/forward-panel/issues)
+- 💡 [功能建议](https://github.com/qiu996/forward-panel/issues)
+- 🤝 [参与贡献](https://github.com/qiu996/forward-panel/pulls)
 
 ## 免责声明
 

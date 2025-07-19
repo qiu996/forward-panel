@@ -109,5 +109,5 @@ https://github.com/qiu996/forward-panel/raw/refs/heads/main/install.sh
 
 **⭐ 如果这个项目对您有帮助，请给个 Star 支持一下！**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bqlpfy/forward-panel&type=Date)](https://www.star-history.com/#bqlpfy/forward-panel&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=qiu996/forward-panel&type=Date)](https://www.star-history.com/#qiu996/forward-panel&Date)
 

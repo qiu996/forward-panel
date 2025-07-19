@@ -1,7 +1,7 @@
 # 常见问题
 
 ::: tip 需要帮助？
-📱 [加入 Telegram 群组](https://t.me/+wdVDni1fdyI0YzE1) | 🐛 [GitHub Issues](https://github.com/bqlpfy/forward-panel/issues) | 🚀 [快速开始](/getting-started)
+📱 [加入 Telegram 群组](https://t.me/+wdVDni1fdyI0YzE1) | 🐛 [GitHub Issues](https://github.com/qiu996/forward-panel/issues) | 🚀 [快速开始](/getting-started)
 :::
 
 ## 面板管理脚本
@@ -9,7 +9,7 @@
 安装、更新、卸载面板均使用同一条命令，运行后在菜单中选择对应操作：
 
 ```bash
-curl -L https://raw.githubusercontent.com/bqlpfy/forward-panel/refs/heads/main/panel_install.sh -o panel_install.sh && chmod +x panel_install.sh && ./panel_install.sh
+curl -L https://raw.githubusercontent.com/qiu996/forward-panel/refs/heads/main/panel_install.sh -o panel_install.sh && chmod +x panel_install.sh && ./panel_install.sh
 ```
 
 ## 节点管理脚本
@@ -17,7 +17,7 @@ curl -L https://raw.githubusercontent.com/bqlpfy/forward-panel/refs/heads/main/p
 节点的“更新”和“卸载”可直接使用以下命令，安装脚本请前往面板系统的“节点管理”页面复制获取：
 
 ```bash
-curl -L https://raw.githubusercontent.com/bqlpfy/forward-panel/refs/heads/main/install.sh -o ./install.sh && chmod +x ./install.sh && ./install.sh
+curl -L https://raw.githubusercontent.com/qiu996/forward-panel/refs/heads/main/install.sh -o ./install.sh && chmod +x ./install.sh && ./install.sh
 ```
 
 ## 日志查看

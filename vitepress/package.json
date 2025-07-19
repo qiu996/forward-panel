@@ -1,7 +1,7 @@
 {
   "name": "doraemon-docs",
   "version": "1.0.0",
-  "description": "哆啦A梦转发面板文档",
+  "description": "勇友转发转发面板文档",
   "type": "module",
   "scripts": {
     "dev": "vitepress dev",

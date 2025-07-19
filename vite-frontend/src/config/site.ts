@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "哆啦A梦",
-  description: "哆啦A梦",
+  name: "勇友转发",
+  description: "勇友转发",
   navItems: [],
   navMenuItems: [],
   links: {

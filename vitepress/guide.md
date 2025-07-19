@@ -1,9 +1,9 @@
 # 使用指南
 
-哆啦A梦是一个基于 go-gost 的现代化转发面板，提供了直观的 Web 界面来管理网络流量转发。
+勇友转发是一个基于 go-gost 的现代化转发面板，提供了直观的 Web 界面来管理网络流量转发。
 
 ::: tip 需要帮助？
-📱 [加入 Telegram 群组](https://t.me/+wdVDni1fdyI0YzE1) | 🐛 [GitHub Issues](https://github.com/bqlpfy/forward-panel/issues) | 🤝 [参与贡献](https://github.com/bqlpfy/forward-panel/pulls)
+📱 [加入 Telegram 群组](https://t.me/+wdVDni1fdyI0YzE1) | 🐛 [GitHub Issues](https://github.com/qiu996/forward-panel/issues) | 🤝 [参与贡献](https://github.com/qiu996/forward-panel/pulls)
 :::
 
 ## 项目介绍
@@ -273,8 +273,8 @@ curl -L https://your-panel-server:6365/agent/install | bash -s -- --server=your-
    - 与其他用户交流经验
 
 2. **🐛 GitHub Issues**
-   - [报告问题](https://github.com/bqlpfy/forward-panel/issues/new)
-   - 查看 [已知问题](https://github.com/bqlpfy/forward-panel/issues)
+   - [报告问题](https://github.com/qiu996/forward-panel/issues/new)
+   - 查看 [已知问题](https://github.com/qiu996/forward-panel/issues)
    - 提交功能建议
 
 3. **📖 文档资源**
